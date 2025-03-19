@@ -1,0 +1,16 @@
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.exe
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.deps.json
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.runtimeconfig.json
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.dll
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\bin\Debug\net8.0-windows\SimpleFormsAppWithComboBox.pdb
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.Form1.resources
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.csproj.GenerateResource.cache
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfoInputs.cache
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfo.cs
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.csproj.CoreCompileInputs.cache
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.dll
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\refint\SimpleFormsAppWithComboBox.dll
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.pdb
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.genruntimeconfig.cache
+C:\Users\oo123\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\ref\SimpleFormsAppWithComboBox.dll
