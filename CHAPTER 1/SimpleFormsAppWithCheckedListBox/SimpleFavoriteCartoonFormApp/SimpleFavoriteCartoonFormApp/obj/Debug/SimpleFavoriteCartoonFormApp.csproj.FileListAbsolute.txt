@@ -1,0 +1,10 @@
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\SimpleFavoriteCartoonFormApp.exe.config
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\SimpleFavoriteCartoonFormApp.exe
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\bin\Debug\SimpleFavoriteCartoonFormApp.pdb
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.csproj.AssemblyReference.cache
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.Form1.resources
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.Properties.Resources.resources
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.csproj.GenerateResource.cache
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.csproj.CoreCompileInputs.cache
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.exe
+C:\Users\abell\source\repos\SimpleFavoriteCartoonFormApp\SimpleFavoriteCartoonFormApp\obj\Debug\SimpleFavoriteCartoonFormApp.pdb
